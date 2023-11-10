@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">Gintama</string>
+
+    <string name="heroes_name">Anime</string>
+    <string name="description">Deskripsi</string>
+    <string name="keterangan_default">Artikel</string>
+
+    <string name="About">About</string>
+    <string name="grid">Grid</string>
+
+    <string name="name">Dimas Surya Wirastama</string>
+    <string name="email">dimas.shie.jhoki@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Gintoki</item>
+        <item>Kagura</item>
+        <item>Shinpachi</item>
+        <item>Elizabeth</item>
+        <item>Hasegawa</item>
+        <item>Hijikata</item>
+        <item>Hiraga</item>
+        <item>Kamui</item>
+        <item>Umibozu</item>
+        <item>Katsura</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Gintoki adalah seorang samurai yang hidup di era ketika samurai tidak lagi dibutuhkan.</item>
+        <item>Kagura adalah anggota Yorozuya bersama Sakata Gintoki dan Shinpachi Shimura dan protagonis wanita utama Gintama.</item>
+        <item>Shinpachi Shimura bekerja di bawah Gintoki untuk mempelajari cara-cara samurai. Dia biasa tinggal di dōjo keluarganya</item>
+        <item>Elizabeth menyerupai bebek putih raksasa atau penguin raksasa dan merupakan pendamping Katsura.</item>
+        <item>Hasegawa dulunya adalah seorang pejabat Bakufu.</item>
+        <item>Hijikata adalah perokok berat yang terkenal, wakil komandan Shinsengumi karena sikapnya yang menakutkan.</item>
+        <item>Hiraga Gengai adalah mekanik dan penemu terhebat Edo. Dia telah membantu Sakata Gintoki dalam beberapa kesempatan.</item>
+        <item>Kamui adalah anggota Suku Yato, putra Umibouzu dan kakak laki-laki Kagura.</item>
+        <item>Kankou (Umibouzu) adalah ayah Kagura dan Kamui dan salah satu anggota terakhir klan Yato.</item>
+        <item>Katsura adalah mantan rekan Gintoki selama perang Joi. Bahkan setelah Amanto mengambil alih Jepang dan Katsura terus melawan Amanto.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/gintoki</item>
+        <item>@drawable/kgura</item>
+        <item>@drawable/shinpaci</item>
+        <item>@drawable/elizabeth</item>
+        <item>@drawable/hasegawa</item>
+        <item>@drawable/hijikata</item>
+        <item>@drawable/hiraga</item>
+        <item>@drawable/kamui</item>
+        <item>@drawable/umibozu</item>
+        <item>@drawable/katsura</item>
+    </integer-array>
+
+    <string-array name="data_keterangan">
+        <item>Gintoki bekerja serabutan bersama dua anak: Kagura dan Shinpachi. Dalam perang Joui, dia dikenal sebagai "Setan Putih" (Shiroyasha) karena rambut perak dan pakaian putih yang dia kenakan dalam pertempuran, yang dikombinasikan dengan kemampuannya yang mengesankan sebagai pendekar pedang, membuatnya terkenal di antara rekan-rekannya dan menimbulkan ketakutan. di hati Amanto.
+            Gintoki secara alami mengeriting rambut perak, yang dia salahkan karena kehidupan cintanya yang kurang. Dia naksir berat pada gadis cuaca berita TV, Ketsuno. Faktanya, sampai saat ini, satu-satunya saat dia terlihat tersipu adalah ketika dia mencoba memanfaatkan anjing Sadaharu dan Ketsuno untuk mendapatkan kesempatan berbicara dengannya. (Meskipun dia kemudian melakukannya dengan Tsukuyo juga ketika dia menemukan dia berbelanja ) Meskipun beberapa karakter wanita telah menunjukkan minat pada Gintoki, dia biasanya tidak menunjukkan tanggapan apa pun dan hanya menganggap mereka sebagai gangguan.
+            Gintoki memiliki dua obsesi besar dalam hidupnya. Dia terobsesi dengan makanan manis seperti parfait, es krim dan kue. Obsesi keduanya adalah membaca majalah antologi manga Weekly Shounen Jump. (Yang, bukan kebetulan, di situlah Gintama diterbitkan). Gintoki akan berusaha keras untuk mendapatkan edisi Jump terbaru, sampai pada perilaku sembrono. Obsesi Lompatnya membuatnya bermimpi menjadi seperti pahlawan Lompat lainnya, termasuk berharap memiliki "Bankai" yang mirip dengan karakter Bleach.
+            Terlepas dari penampilan dan perilaku awalnya, Gintoki sangat bangga dengan kode bushido lama. Dia mengambil tanggung jawab untuk menyelamatkan atau membalas tidak hanya rekan-rekan dan teman-temannya tetapi juga orang-orang yang hampir tidak dia kenal, baik itu petarung yang merawat anak yatim piatu yang terlantar atau Amanto yang menyerupai kappa.
+            Meskipun menjadi pejuang yang menakutkan dengan keterampilan yang hampir tak tertandingi, dia menghindari pertumpahan darah yang tidak perlu setelah kehilangan sebagian besar teman dan sekutunya selama perang Joui.</item>
+        <item>Meskipun dia tampak seperti gadis manusia yang normal, imut, dan berpakaian gaya Cina, dia sebenarnya milik Klan Yato, salah satu ras Amanto yang terkuat dan paling haus darah. Orang Yato dikatakan memiliki kulit "transparan" yang sangat sensitif terhadap sinar matahari, sehingga Kagura selalu membawa payung berwarna ungu. Payung juga merupakan senjata pilihan klan Yato; Kagura antipeluru dan menembakkan peluru dari ujungnya. Karena darah Yato-nya, dia sangat kuat dan bisa menghentikan motor-skuter yang melaju kencang dengan satu tangan. Meski lebih kuat dari kebanyakan manusia, dia tidak bisa mengendalikan kekuatannya dengan sempurna. Kekuatan manusia supernya membuatnya sangat buruk dengan hewan peliharaan. Sebagian besar hewan peliharaannya, kecuali Sadaharu, telah menemui kematian sebelum waktunya di tangannya.
+            Dia juga sangat fleksibel dan cepat mampu menangkap beberapa peluru yang melaju kencang di antara gigi dan jarinya. Selama pertempuran, dia sering terlihat melayang di udara dan melakukan berbagai aksi akrobatik. Karena darah Yatonya, dia mampu beregenerasi dengan cepat. Selama arc Benizakura, dia terlihat sembuh dari luka tembak hampir dalam semalam.
+            Kagura juga memiliki nafsu makan yang luar biasa kuat. Dia mampu mengkonsumsi makanan dalam jumlah besar dalam hitungan detik. Namun demikian, seleranya sangat sederhana. Sukonbu, nasi, dan telur termasuk makanan favoritnya.
+            Keluarga dekatnya terdiri dari ayahnya, Umibouzu, seorang pemburu alien yang dikenal luas, ibunya, yang telah meninggal, dan kakak laki-lakinya Kamui, yang pernah dianggap hilang yang sekarang terlibat dengan bajak laut luar angkasa Harusame.
+            Dia datang ke Bumi untuk mendapatkan uang untuk keluarganya. Dia menemukan pekerjaan berjuang untuk sebuah geng, tetapi ketika mereka memerintahkannya untuk membunuh targetnya, dia melarikan diri. Tidak lama kemudian, dia bertemu Gintoki dan Shinpachi ketika Gintoki secara tidak sengaja menabraknya dengan skuternya. Setelah mereka membantunya melepaskan diri dari geng, dia mengintimidasi Gintoki untuk mempekerjakannya. Dia sekarang tinggal di Yorozuya dan tidur di lemari Gintoki, seperti Doraemon.
+            Kagura dan Gintoki berbagi hubungan seperti kakak-adik yang aneh. Bersama dengan Shinpachi, mereka bertiga menjadi keluarga yang aneh, disfungsional, namun erat. Kagura sangat protektif terhadap Gintoki. Meskipun dia sendiri sering bertengkar dengannya, dia jarang membiarkan orang lain mengganggunya. Dia tampaknya percaya sepenuh hati pada kemampuan dan kekuatan Gintoki. Bahkan dalam situasi sulit, dia yakin Gin-chan akan datang dan menyelamatkannya. Dia memiliki kecenderungan untuk meniru kebiasaan buruk Gintoki (seperti mengupil atau mengumpat, karena itu perilakunya tidak seperti wanita) dan sering mengutip nasihat buruk yang dia berikan padanya. Beberapa kalimatnya dimulai dengan "Gin-chan bilang..." atau "Gin-chan bilang..."
+            Kagura juga agak tomboi. Dia sering terlihat ikut serta dalam permainan dengan berbagai anak laki-laki tetangga. Meskipun cara bicaranya yang terus terang sering membuat mereka menghindarinya, dia tampaknya tidak keberatan. Faktanya, dia sama sekali tidak memiliki masalah dengan memaksa masuk ke dalam permainan mereka. Dalam pertempuran, dia terbukti berkepala banteng dan pecundang yang sakit hati. Seperti Gintoki, dan mungkin karena pengaruhnya, dia tidak segan-segan melakukan trik dan manipulasi kecil-kecilan untuk mengalahkan musuhnya. Tidak seperti banyak pahlawan manga konvensional, dia tidak menunjukkan kesadaran yang sama terhadap kesopanan, tata krama, dan penampilan fisik. Muntah, memaki, mengorek hidung, meludah, berkelahi, dan mencakar dirinya adalah perilaku umum Kagura.
+            Dia menganggap Okita, kapten Shinsengumi, sebagai saingan. Dia membencinya dan tampak muak ketika dia sebelumnya menyebutkan (tentang Okita), bahwa "dia pasti menyukaiku," tetapi karena hal itu belum diangkat sejak itu, tidak pasti apakah itu harus dianggap kanon, bahwa dia tampaknya menyukainya.
+            Meskipun Kagura biasanya menggoda Shinpachi, dia sangat peduli padanya dan menganggapnya sebagai saudara laki-laki. Dia juga sangat menghormati kakak perempuannya, Shimura Tae, sering memanggilnya "Anego" (istilah yang digunakan wanita gangster untuk menunjukkan rasa hormat).</item>
+        <item>Shinpachi bertemu Gintoki setelah Shinpachi dijegal oleh duta Planet Chatoran. Gintoki memukuli duta besar dan pengawalnya, bukan untuk membela Shinpachi, tetapi untuk membalas dendam atas parfaitnya yang tumpah. Gintoki menjebak Shinpachi atas kejahatan tersebut, yang entah bagaimana membuatnya menyelamatkan Shimura Tae (Otae), saudara perempuan Shinpachi, dari menjadi bagian dari rumah bordil.
+            Terlepas dari penampilannya yang lemah lembut, Shinpachi adalah pendekar pedang yang lebih kompeten dari Kakidō-Ryu keluarganya, jenis ilmu pedang yang diajarkan dojo-nya.
+            Dalam jajak pendapat popularitas karakter, dia berada di posisi ke-8.
+            Namanya kira-kira berdasarkan anggota Shinsengumi Nagakura Shinpachi dan komedian Ken Shimura.</item>
+        <item>Elizabeth adalah hadiah dari Tatsuma Sakamoto, yang mungkin mengambilnya dalam perjalanannya mengelilingi ruang angkasa. Meskipun banyak orang menganggap Elizabeth gila dan asing, Katsura menamai burung yang ambigu itu "Elizabeth" dan menyayanginya. Suatu kali di episode 18 Shinpachi membeli boneka bernama Space Alien Stefan (宇宙怪獣ステファン) yang terlihat sangat mirip dengan Elizabeth. Elizabeth adalah seorang pelukis, dan sangat cekatan. Selain itu, Elizabeth menggunakan papan nama untuk "berkomunikasi", serta sarana serangan sesekali. Elizabeth juga seorang petarung yang terampil, mampu menggunakan papan nama untuk melawan pendekar pedang.
+            Meski identitas sebenarnya dari Elizabeth tidak pasti, tampaknya itu adalah seorang pria yang mengenakan kostum bebek. Dalam penampilan pertamanya, kaki berbulu terlihat di bawah selimutnya dan tubuh humanoid dengan mata bersinar terungkap saat mulutnya terbuka saat jatuh saat pertempuran lain antara Gintoki dan Katsura. Meskipun Katsura tampak terkejut dengan siapa dia sebenarnya, dia kemudian tetap berada di sisinya. Episode 50 menyiratkan bahwa orang di dalam Elizabeth kemungkinan besar adalah sutradara (Gintoki terputus sebelum dia dapat menyelesaikan pemotongan di "Kanto-" ("Direc-"). Sebagian besar karakter tampaknya mengabaikan ini, atau setidaknya tidak pikirkan baik-baik, mengingat di episode itu benar-benar pengisi.Selain itu, lain kali bagian dalam Elizabeth ditampilkan, itu kembali ke mata yang bersinar.
+            Saat Shinpachi menaiki kapal Takasugi untuk menyelamatkan Kagura, bazoka terlihat keluar dari mulut Elizabeth saat dia meledakkan kapal untuk mengalihkan perhatian semua orang dari Shinpachi. Karena itu, Shinpachi menyebutnya sebagai Elizabeth-senpai.
+            Ulang tahun Elizabeth adalah 7 September. Tinggi badan "dia" 180 sentimeter, dan berat "dia" 123 kilogram.</item>
+        <item>Dia awalnya percaya bahwa manusia harus fokus untuk menenangkan Amanto, tetapi setelah pertemuannya dengan Gintoki, pola pikirnya berubah, yang membuatnya meninju Hata, sehingga dipecat. Sejak itu, dia telah menjalani kehidupan yang agak seperti pecundang, dipecat hampir setiap kali dia mendapat pekerjaan baru, sebagian besar karena tampilan kacamata hitam dan janggutnya yang tidak menyenangkan.
+            Tidak peduli apa, dia menolak untuk melepas kacamata hitamnya karena itu satu-satunya hal yang tersisa untuk mengingatkannya pada masa lalunya yang sukses. Meskipun dia menukar kacamata hitamnya dengan kacamata bulan sabit yang layak pada satu titik, dia kembali memakainya setelah dia memutuskan bahwa dia akan menjalani hidupnya dengan cara terbaik yang dia bisa. Dia terus-menerus terlihat mengerjakan berbagai pekerjaan paruh waktu. Dia sering disebut sebagai "Madao", kependekan dari "marude damena ossan", yang secara kasar diterjemahkan menjadi "pria paruh baya yang sama sekali tidak berguna".
+            Dia dan Gintoki berhubungan baik satu sama lain dan tampaknya menghabiskan sebagian besar waktu luang mereka untuk berjudi. Dia sering bermain pachinko, tapi jarang menang. Setelah kehilangan pekerjaannya untuk Bakufu, dia terlihat melakukan pekerjaan serabutan dari waktu ke waktu, seperti menjalankan supermarket untuk seorang teman atau mengemudikan taksi pada satu waktu.
+            Dia saat ini diasingkan dari istrinya Hatsu, karena gaya hidupnya yang menganggur, namun mereka tetap berhubungan.
+            Terungkap di episode 52 bahwa dia berusia 38 tahun setelah dia buang air kecil di celana.</item>
+        <item>Hijikata memiliki reputasi sebagai pemimpin yang menakutkan, mendapat julukan "wakil komandan setan." Dia juga pemarah dan sering berbicara tentang seppuku. Namun, meskipun penampilannya dingin, dia memiliki sisi yang lebih welas asih. Ia juga cenderung menangis setelah menonton film yang tidak terlalu emosional.
+            Hijikata terobsesi dengan mayones dan karenanya mendapat julukan "Mayora". Dia diketahui mencekik apa pun yang dia makan di bawah tumpukan mayones, dan dia membawa sejumlah benda berbentuk toples mayones, seperti pemantik rokoknya. Dia popular di kalangan gadis sampai mereka menemukan obsesi ini.
+            Dia menikmati pertempuran dan melihat Gintoki sebagai saingan dalam hampir semua yang dia lakukan dari kontes minum hingga batu, kertas, gunting sejak dikalahkan olehnya dalam pertempuran. Dia terus-menerus dalam bahaya dibunuh oleh percobaan pembunuhan oleh Okita. Namun terlepas dari semua ini, dia melihat Okita sebagai salah satu teman dekatnya, begitu pula sebaliknya.
+            Sebelum bergabung dengan Shinsengumi, dia adalah seorang ronin pembuat onar. Dia menikmati pertempuran / pertarungan yang bagus dan mengatakan dia tidak peduli berapa banyak bangunan Amanto yang diledakkan, dia hanya berharap untuk melakukan pertempuran besar dengan pemberontak Joui setelah Shinsengumi membulatkan mereka dalam 1 gerakan, di Episode 5.
+            Dia juga merumuskan Kyokuchuu Hatto, 45 Peraturan yang membentuk kerangka disiplin bagi anggota Shinsengumi, dan menerapkannya dengan tegas.
+            Dia merokok dan makan mayones.</item>
+        <item>Dia membuat mesin yang jelek dan kasar, dan keyakinannya adalah bahwa Mesin manusia adalah baju besi, meriam, dan ulat.
+            Gengai memiliki kebiasaan buruk untuk memodifikasi semua yang dia miliki, lupa memberi tahu petunjuk penting pengguna item tentang cara menggunakannya sampai terlambat. Ini biasanya mengakibatkan pengguna item mendapat masalah.
+            Hiraga Gengai pertama kali diperkenalkan di episode 17. Tampak sebagai mekanik biasa, Yorozuya kemudian mengetahui bahwa putra satu-satunya, Hiraga Saburou, telah kehilangan nyawanya dalam perang Joui. Kematian putra satu-satunya meninggalkannya dengan luka emosional yang dalam dan Takasugi Shinsuke memanfaatkan itu dan menggunakannya untuk menyerang festival yang akan dihadiri Shogun. Namun, dengan bantuan Yorozuya dan Shinsengumi, serangan itu dihentikan dan Gengai meyakinkan bahwa balas dendam terhadap Bakufu bukanlah tindakan yang tepat.
+            Saat ini, dia adalah pemilik-pemilik Machine Hall, bengkel perbaikan mesin dan kantor penemu, dan dia sering harus memperbaiki skuter Gintoki. Meski begitu, ia tetap menjadi buronan hukum, terlihat dari poster buronannya di akhir Episode 17, dan seperti yang dikatakan Gintoki di awal episode 67.</item>
+        <item>Keterampilan bertarungnya yang luar biasa membantunya menjadi Kapten Divisi 7 Senjata Guntur Harusame, unit tempur paling kuat dalam kelompok Harusame dan Penguasa Yoshiwara. Sejak membelot dari Harusame, dia tidak lagi menjabat posisi tersebut.
+            Kamui sangat yakin bahwa Yato akan tetap berada di medan perang dan menunjukkan ketidaksetujuannya terhadap Housen yang tetap dikurung di Yoshiwara. Karena keyakinan ini, dia tidak menunjukkan belas kasihan kepada keluarga atau bawahannya sebagai tanda kelemahan yang tidak dapat diterima. Dia mencoba untuk menghidupkan kembali tradisi yang ditinggalkan orang-orang klan Yato yang membunuh orang tua mereka sendiri untuk membuktikan kekuatan mereka, meskipun gagal untuk berhasil dan hanya memotong lengan ayahnya.
+            Meskipun demikian, dia menghormati lawan yang dia bunuh dengan mengirim mereka pergi sambil tersenyum. Dia tidak membunuh anak-anak, dan tidak suka membunuh wanita karena mereka bisa melahirkan anak-anak yang kuat.</item>
+        <item>Umibosu Seperti Kagura, dia bertarung menggunakan payung, tetapi juga terbukti kuat dengan caranya sendiri. Dia adalah salah satu dari sedikit karakter yang mampu mengalahkan Kagura. Dia muncul saat alien muncul dan mengambil alih Terminal, membantu Yorozuya mengalahkan makhluk itu. Terungkap bahwa dia memiliki lengan cybernetic.
+            Setelah dia pergi untuk melakukan perjalanan galaksi berburu alien, dia selanjutnya mendengar kabar dalam bentuk surat. Dia memberi tahu Kagura bahwa Sadaharu juga monster yang harus mereka singkirkan. Dia menjadi pemimpin "Kerajaan" di anime, direkrut oleh doppelganger Char Aznable. Di manga, dia direkrut oleh orang yang mirip Darth Vader.
+            Kemudian di seri manga dan anime. Dia juga berpartisipasi dalam iklan sampo penumbuh rambut yang dikeluhkan Yorozuya karena iklannya terlalu panjang.
+            Hideaki Sorachi mengungkapkan dalam Tanya Jawab di volume 57 bahwa nama asli Umibozu adalah Kankou.</item>
+        <item>Senjata pilihannya adalah granat logam. Dia adalah buronan karena keterlibatannya dalam kegiatan teroris melawan Bakufu, dan terus-menerus dalam pelarian dari Shinsengumi. Meskipun metode awalnya lebih kejam (misalnya, mengirim bom ke kedutaan Amanto), Katsura secara bertahap tumbuh untuk percaya bahwa ada orang yang penting baginya di Edo, dan memutuskan bahwa dia tidak lagi ingin menghancurkan negara. , tetapi percaya harus ada cara untuk mengubahnya tanpa menimbulkan pengorbanan.
+            Katsura tampaknya sangat dihormati oleh para pengikutnya, dan bahkan disebut sebagai "Fraksi Fajar Joui" oleh beberapa orang. Ketika orang-orang percaya bahwa Katsura telah meninggal selama arc Benizakura, bahkan kelompok teroris lainnya mencoba untuk membalas kematiannya.
+            Karena menjadi buronan, Katsura sering terlihat memakai penyamaran, meski identitasnya masih mudah diketahui. Salah satu contoh penyamaran yang tampaknya dia sukai adalah kostum bajak laut, lengkap dengan penutup mata (dengan desain tengkorak) di atas mata kirinya dan bekas luka di pipi kanannya, dan menggunakan ini dia menyebut dirinya Kapten Luar Angkasa Katsura.
+            Katsura tampaknya memiliki selera humor yang agak ketinggalan jaman, dan terkadang mengacu pada hal-hal dari masa lalu, seperti saat dia mencoba membeli Famicon saat orang mengantri untuk membeli OwEe (parodi dari Wii). Dia juga tampaknya memiliki kecenderungan untuk mengarang cerita dramatis, yang membuat orang lain menangis ketika mendengar cerita tersebut (kecuali Gintoki).
+            Katsura terkadang bekerja serabutan (misalnya di Episode 88), untuk mengumpulkan uang untuk kegiatan terorisnya. Dia mengklaim bahwa hatinya sudah mulai tergerak oleh Ikumatsu di episode 39 (setara chapter 55 dari manga), dan mengadakan wawancara berikutnya di restoran ramennya.
+            Dalam versi Jepang, Gintoki sering memanggilnya "Zura". Di jilid bahasa Inggris pertama, Gintoki memanggilnya "Casserole", atau "Sirup obat batuk". Akhirnya, versi bahasa Inggris berubah menjadi Gintoki memanggil Katsura "Zura." Dalam versi Jepang, Katsura menjawab dengan marah, "Bukan 'Zura'! Ini Katsura!" (dan akan melakukannya kapan saja dia dipanggil selain namanya). Dalam versi bahasa Inggris dia menjawab "Bukan Casserole! Ini Katsura!" Lelucon versi Jepang adalah pelesetan, karena "Katsura" dapat berarti rambut palsu dalam bahasa Jepang dan "Zura" adalah bahasa gaul untuk hal yang sama. Versi bahasa Inggris juga merupakan permainan kata karena "Katsura" dan "Casserole" terdengar agak mirip dalam pengucapannya. Dia memiliki kemampuan luar biasa untuk mengetahui ketika seseorang memanggilnya sesuatu selain Katsura, bahkan di kepala mereka. Contohnya di Episode 25 sebagai tamu makan malam hotpot Gintoki.
+            Namanya didasarkan pada sejarah Katsura Kogoro.</item>
+    </string-array>
+</resources>
